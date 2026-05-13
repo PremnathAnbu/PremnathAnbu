@@ -51,7 +51,62 @@ class PremnathAnbu:
     currently_building = "GenAI apps with RAG + FastAPI + LangChain"
     always_learning    = True
 ```
+<!--
+```python
+class PremnathAnbu:
 
+    def __init__(self):
+        self.name       = "Premnath Anbu"
+        self.role       = "Machine Learning Engineer | GenAI Developer"
+        self.location   = "Chennai, India 🇮🇳"
+        self.languages  = ["Python", "SQL", "Java"]
+        self.interests  = ["LLMs", "RAG", "AI Agents", "MLOps", "Automation"]
+
+    def tech_stack(self):
+        return {
+            "GenAI"      : ["LangChain", "LlamaIndex", "OpenAI", "Gemini", "Ollama"],
+            "ML & Data"  : ["Scikit-Learn", "Pandas", "NumPy", "Power BI"],
+            "Vector DBs" : ["FAISS", "ChromaDB", "Pinecone"],
+            "Backend"    : ["FastAPI", "Flask", "REST APIs"],
+            "MLOps"      : ["MLflow", "DagsHub", "Airflow", "Docker", "Jenkins"],
+            "Cloud"      : ["AWS", "GCP"],
+        }
+
+    def currently_building(self):
+        return [
+            "⚡ Production-ready RAG applications",
+            "🤖 AI Agents & Multi-Agent workflows",
+            "🚀 FastAPI-powered LLM APIs",
+            "☁️ End-to-End MLOps pipelines"
+        ]
+
+    def life_philosophy(self):
+        return "Build AI systems that solve real-world problems at scale."
+
+me = PremnathAnbu()
+print(me.life_philosophy())
+```
+-->
+<!--
+✨ Machine Learning Engineer & GenAI Developer passionate about building intelligent AI systems, scalable ML pipelines, and production-ready LLM applications.
+
+🚀 Working on:
+- RAG-based AI applications
+- AI Agents & automation workflows
+- FastAPI-powered GenAI APIs
+- End-to-end MLOps pipelines
+
+🧠 Interests:
+Generative AI • LLMs • LangChain • LangGraph • NLP • Computer Vision • Cloud AI • Automation
+
+⚡ Tech Focus:
+Python • FastAPI • LangChain • FAISS • MLflow • Airflow • Docker • AWS • GCP
+
+🌱 Currently exploring:
+LLMOps • Multi-Agent Systems • Fine-tuning Open Source LLMs • Real-time AI Pipelines
+
+💡 I enjoy transforming ideas into scalable AI products that solve real-world problems.
+-->
 ---
 
 ## 🤖 Generative AI & LLM Stack
@@ -294,12 +349,12 @@ Fine-tuning LLMs          ████████████░░░░░░
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PremnathAnbu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremnathAnbu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremnathAnbu&theme=tokyonight&hide_border=true" height="175"/>
 </p>
