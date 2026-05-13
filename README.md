@@ -7,6 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Building+GenAI+%26+LLM-powered+apps;🚀+FastAPI+%7C+RAG+%7C+LangChain+%7C+AI+Agents;☁️+MLOps+on+AWS+%26+GCP+%7C+Docker+%7C+Jenkins;📊+End-to-End+ML+Pipelines+%7C+MLflow+%7C+Airflow;🔍+NLP+%7C+Computer+Vision+%7C+AI+Automation" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;GenAI+Developer;RAG+%7C+LangChain+%7C+FastAPI;AWS+%7C+Docker+%7C+MLOps;AI+Automation+%7C+LLM+Pipelines"
+    alt="Typing SVG"
+  />
+</p>
 
 <!-- Badges Row -->
 <p align="center">
