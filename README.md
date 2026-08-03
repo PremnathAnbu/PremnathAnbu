@@ -18,9 +18,9 @@
 
 <!-- Badges Row -->
  <p align="center">
-  <a href="https://www.linkedin.com/in/premnathanbu" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/premnathanbu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-premnathanbu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
+  </a>  -->
   <a href="https://github.com/PremnathAnbu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PremnathAnbu-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -35,7 +35,7 @@
 ```python
 class PremnathAnbu:
     name     = "Premnath Anbu"
-    role     = ["Data Scientist", "ML Engineer", "GenAI Developer"]
+    role     = ["Data Engineer", "ML Engineer", "GenAI Developer"]
     location = "Chennai, India 🇮🇳"
     linkedin = "linkedin.com/in/premnathanbu"
 
